@@ -13,6 +13,7 @@ namespace ConsoleApp1
             return 0;
         }
 
+        //this line is added on git
         static void assignmentRemainderOfMethodResult()
         {
             int a = 5;
